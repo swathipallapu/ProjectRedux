@@ -1,0 +1,38 @@
+.Container{
+  position : relative;
+  text-align: center;
+  font-size: 30px;
+  background-color:slategray;
+  width : 1000px;
+  margin-left: 450px;
+  margin-right : 150px;
+  height : 500px;
+  border-radius:  20px;
+  color : white;
+   top: 100px;
+}
+.quantity_input{
+  font-size: 30px;
+  height : 30px;
+}
+
+.quantity_minus{
+  font-size: 30px;
+  height : 30px;
+}
+.quantity_plus{
+  font-size: 30px;
+  height : 30px;
+}
+h1{
+ 
+  padding-top: 80px;
+}
+h4{
+  padding-top : 20px;
+}
+quantity{
+  padding-top: 30px;
+}
+
+
